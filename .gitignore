@@ -6,3 +6,6 @@ bin/
 vendor/
 
 *~
+
+# Ignore vscode project settings
+settings.json
