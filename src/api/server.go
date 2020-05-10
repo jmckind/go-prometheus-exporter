@@ -10,7 +10,7 @@ import (
 
 const (
 	metricsSuffix = "/metrics"
-	listenAddress = "localhost:9453"
+	listenAddress = "0.0.0.0:9453"
 )
 
 var (
